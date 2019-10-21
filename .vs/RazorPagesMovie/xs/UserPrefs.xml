@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{FF9CDCC8-564D-4F63-8AED-A39524A17F58}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Migrations/20191021213834_InitialCreate.cs">
+    <Files>
+      <File FileName="Pages/Movies/Create.cshtml" Line="21" Column="28" />
+      <File FileName="Startup.cs" />
+      <File FileName="appsettings.json" />
+      <File FileName="Data/RazorPagesMovieContext.cs" />
+      <File FileName="Pages/Movies/Index.cshtml.cs" />
+      <File FileName="Pages/Movies/Index.cshtml" />
+      <File FileName="Pages/Shared/_Layout.cshtml" />
+      <File FileName="Pages/Movies/Create.cshtml.cs" />
+      <File FileName="Pages/Shared/_ValidationScriptsPartial.cshtml" />
+      <File FileName="Models/SeedData.cs" />
+      <File FileName="Program.cs" />
+      <File FileName="Pages/Movies/Edit.cshtml" />
+      <File FileName="Pages/Movies/Details.cshtml" />
+      <File FileName="Pages/Movies/Delete.cshtml" />
+      <File FileName="Pages/Movies/Delete.cshtml.cs" />
+      <File FileName="Pages/Movies/Edit.cshtml.cs" />
+      <File FileName="Models/Movie.cs" />
+      <File FileName="Migrations/20191021213834_InitialCreate.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RazorPagesMovie" expanded="True">
+            <Node name="RazorPagesMovie" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20191021213834_InitialCreate.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Movies" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RazorPagesMovie PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
